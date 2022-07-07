@@ -1,7 +1,7 @@
-console.log('Hello world!')
+//Complete the solution so that it reverses the string passed into it.
 
-dawd
-
-
-AudioWorklet
-dawd
+function solution(str){
+  let splitstr = str.split('')
+  let reverse = splitstr.reverse()
+  return reverse.join('')
+}
