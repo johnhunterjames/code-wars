@@ -1,4 +1,4 @@
-//takes in the color of the light, and returns the light that is about to show.
+//takes in the color of the light, and returns the light that is about to show. Enjoy!
 
 function updateLight(current) {
     if (current === "green"){
